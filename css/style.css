@@ -16,6 +16,7 @@ header {
     background-color: red;
 }
 
+
 ul {
     display: flex;
     justify-content: flex-end;
@@ -40,14 +41,17 @@ a {
 
 #scarpa1 {
     background-color: red;
+    color:yellow;
 }
 
 #scarpa2 {
     background-color: green;
+    color:yellow;
 }
 
 #scarpa3 {
     background-color: yellow;
+    color: green;
 }
 
 
